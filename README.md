@@ -26,4 +26,20 @@ ordered_quantity            int
 
 item_discount             float
 
-expected_delivery_date     object
+expected_delivery_date     object  
+
+
+
+About Human resourse Analytics Datset
+Analyzed an HR dataset and discovered organizational insights 
+using Numpy and Pandas
+
+Information about Human resource dataset 
+Rows: 1470
+Columns: 35
+
+Project Description:
+This project involves an in-depth Exploratory Data Analysis (EDA) of a Human Resources dataset. 
+- The primary objective is to gain insights into employee demographics, job roles, satisfaction levels, 
+- and other relevant attributes to understand patterns and trends that could inform better decision-making in human resource management. 
+- The analysis will involve data cleaning, processing, visualization, and interpretation of key findings to derive actionable insights.
