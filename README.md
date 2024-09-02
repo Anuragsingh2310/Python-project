@@ -9,12 +9,21 @@ using Numpy, Pandas, and SQL queries in Pandas.
  Data types
  
  order_date                 object
-order_number                int64
-order_warehouse_id        float64
+ 
+order_number                int
+
+order_warehouse_id        float
+
 store_id                   object
+
 order_status               object
+
 item_id                    object
-amount_per_unit           float64
-ordered_quantity            int64
-item_discount             float64
+
+amount_per_unit           float
+
+ordered_quantity            int
+
+item_discount             float
+
 expected_delivery_date     object
