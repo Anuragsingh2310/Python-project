@@ -1,4 +1,4 @@
-# Python-project
+Sales transsction retail dataset
 
  In this SALES  TRANSACTION RETAIL DATASET, uncovering insights 
 using Numpy, Pandas, and SQL queries in Pandas. 
