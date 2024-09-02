@@ -3,7 +3,7 @@ Sales Transaction retail dataset
  In this SALES  TRANSACTION RETAIL DATASET, uncovering insights 
 using Numpy, Pandas, and SQL queries in Pandas. 
 
- Information about sales transactions including order date, order number, warehouse ID, store ID, item ID, amount per unit, ordered quantity, item discount, and expected delivery date
+ Information about sales transactions including order date, order number, warehouse ID, store ID, item ID, amount per unit, ordered quantity, item discount, and expected delivery date 
  In this data set total 2500 rows and 12 columns 
  
  Data types
