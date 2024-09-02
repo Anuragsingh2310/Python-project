@@ -1,4 +1,4 @@
-Sales transsction retail dataset
+Sales Transaction retail dataset
 
  In this SALES  TRANSACTION RETAIL DATASET, uncovering insights 
 using Numpy, Pandas, and SQL queries in Pandas. 
